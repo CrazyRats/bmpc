@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bmpc.com" resolutions="1x" timestamp="1535598467719">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bmpc.com" resolutions="1x" timestamp="1535598004707">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="170889126" ref="index"/>
@@ -8,15 +8,15 @@
     <file name="museutils.js" crc="4232573551" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="3849126041" ref="index"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="webpro.js" crc="3770351119" ref="index"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
     <file name="touchswipe.js" crc="3912873526" ref="index"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
     <file name="portada.jpg" crc="4191617243" seo="true" ref="index">
@@ -150,5 +150,5 @@
     </file>
     <file name="u1226-4.png" crc="530643252" ref="index"/>
   </folder>
-  <file name="index.html" crc="46870081" seo="true" mt="1535598390108" redirect="true"/>
+  <file name="index.html" crc="483088661" seo="true" mt="1535597896369" redirect="true"/>
 </manifest>
