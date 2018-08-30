@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bmpc.com" resolutions="1x" timestamp="1535600903289">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bmpc.com" resolutions="1x" timestamp="1535602451474">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4028166833" ref="index"/>
@@ -150,5 +150,5 @@
     </file>
     <file name="u1226-4.png" crc="530643252" ref="index"/>
   </folder>
-  <file name="index.html" crc="2329791" seo="true" mt="1535600864345" redirect="true"/>
+  <file name="index.html" crc="4085893721" seo="true" mt="1535602378526" redirect="true"/>
 </manifest>
