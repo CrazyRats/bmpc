@@ -1,0 +1,154 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bmpc.com" resolutions="1x" timestamp="1535598467719">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="170889126" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="portada.jpg" crc="4191617243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1714.png" crc="3857175516" ref="index"/>
+    <file name="u1714-r.png" crc="3857175516" ref="index"/>
+    <file name="u1714-a.png" crc="3857175516" ref="index"/>
+    <file name="u1818.png" crc="3859259497" ref="index"/>
+    <file name="u1818-r.png" crc="3859259497" ref="index"/>
+    <file name="u1818-a.png" crc="3859259497" ref="index"/>
+    <file name="u1849.png" crc="162651679" ref="index"/>
+    <file name="u1849-r.png" crc="162651679" ref="index"/>
+    <file name="u1849-a.png" crc="162651679" ref="index"/>
+    <file name="u1874.png" crc="4200029904" ref="index"/>
+    <file name="u1874-r.png" crc="4200029904" ref="index"/>
+    <file name="u1874-a.png" crc="4200029904" ref="index"/>
+    <file name="icfacebook.png" crc="55691653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download.png" crc="184002935" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bn1.png" crc="307999073" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bn2.png" crc="3852388619" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left.png" crc="3931972821" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right.png" crc="3892545596" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2368-4.png" crc="4142172951" ref="index"/>
+    <file name="logotipo.jpg" crc="3777301841" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u221-4.png" crc="3905327097" ref="index"/>
+    <file name="ic1azul.png" crc="36238902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic1naranja.png" crc="3965409349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic2azul.png" crc="68447020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic2naranja.png" crc="4102635431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic3azul.png" crc="335102389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic3naranja.png" crc="3918453235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic4azul.png" crc="3990908314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic4naranja.png" crc="4260676668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u844-4.png" crc="3981353072" ref="index"/>
+    <file name="ft1bn.jpg" crc="433605058" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ft1color.jpg" crc="35722299" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ft2bn.jpg" crc="67277021" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ft2color.jpg" crc="428631625" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ft3bn.jpg" crc="341596952" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ft3color.jpg" crc="3909144336" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ft4bn.jpg" crc="3742541" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ft4color.jpg" crc="3812456875" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1091-4.png" crc="3772483955" ref="index"/>
+    <file name="s1a.png" crc="4063114636" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s1b.jpg" crc="258765155" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2a.png" crc="4076714132" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2b.jpg" crc="137367716" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s3a.png" crc="64337223" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s3b.jpg" crc="4098428858" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4a.png" crc="3844533250" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4b.jpg" crc="3871240534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s5a.jpg" crc="424079305" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s5b.png" crc="15218022" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6a.png" crc="3765393512" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6b.png" crc="3813979967" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1226-4.png" crc="530643252" ref="index"/>
+  </folder>
+  <file name="index.html" crc="46870081" seo="true" mt="1535598390108" redirect="true"/>
+</manifest>
